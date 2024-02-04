@@ -35,3 +35,4 @@ We have write Automation test scripts Using Robot Framework with Selenium Librar
   - [UI Automation Testing With Robot Framework](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/Robot%20Framework.pdf)
   - [API Testing With Postman](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/Postman%20Cert.pdf)
   - [SQL Basic](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/SQL%20Cert.pdf)
+  - [Essential SQL For Everyone - BorntoDev](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/borntodev-acdemy_Essential%20SQL%20for%20Everyone.png)
