@@ -29,4 +29,9 @@ We have write Automation test scripts Using Robot Framework with Selenium Librar
     - [When Was the Golden Age of Video Games?](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_)
     - Use `HAVING()` to filter result on of `GROUP BY`
     - `JOIN` and `LEFT JOIN` table
-    
+
+- My Certificate
+      - [Software Testing Manual](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/Manual%20Cert.pdf)
+      - [UI Automation Testing With Robot Framework](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/Robot%20Framework.pdf)
+      - [API Testing With Postman](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/Postman%20Cert.pdf)
+      - [SQL Basic](https://github.com/rajatisace/QA-Automate/blob/main/Certificate/SQL%20Cert.pdf)
