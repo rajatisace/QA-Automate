@@ -1,5 +1,16 @@
 # QA-Workshop
-Software Testing By `P'Beam`
+By learning Software Testing With `P'Beam` I have learn many things
+- Create Test Case
+- Create Log Defect
+- Create Scenario
+- Create Flow Chart
+- Create Test Report
+- Create Test Plan
+- End to End Test
+- UAT Test
+- Automated with Robotframework
+- Automated API with Postman
+- SQL Server
 
 We have write Automation test scripts Using Robot Framework with Selenium Library
 
