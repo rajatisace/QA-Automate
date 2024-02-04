@@ -22,7 +22,7 @@ We have write Automation test scripts Using Robot Framework with Selenium Librar
      - Filter row using `WHERE`,`GROUP BY`
      - Use subquery in `WHERE`
  
-       - [Analyzing NYC Public School Test Result Scores](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores) DataCamp Project use PostgreSQL to analyze school's score
+     - [Analyzing NYC Public School Test Result Scores](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores) DataCamp Project use PostgreSQL to analyze school's score
     - Count unique values with `COUNT(DISTINCT)`
     - Combine `SUM()` and `COUNT()` to calculate in each row
     
