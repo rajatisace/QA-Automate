@@ -11,6 +11,7 @@ By learning Software Testing With `P'Beam` I have learn many things
 - Automated with Robotframework
 - Automated API with Postman
 - SQL Server
+- Selenium library
 
 We have write Automation test scripts Using Robot Framework with Selenium Library
 
